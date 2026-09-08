@@ -1,0 +1,15 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Credentials
+.env
+credentials.json
+token.pickle
+
+# OS files
+.DS_Store
+Thumbs.dbsd
