@@ -1,14 +1,7 @@
 # CorrespondIQ
-AI-powered correspondence and calendar intelligence for extracting actionable insights from email communications and meeting context.
+AI-powered correspondence and calendar intelligence for extracting actionable insights from email communications and meeting context. It reads your emails and calendar to provide daily briefings.
 
-**AI Executive Assistant that reads your emails and calendar to provide intelligent, actionable daily briefings.**
-
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Gemini](https://img.shields.io/badge/Gemini-3.6--Flash-orange.svg)](https://ai.google.dev/gemini-api)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
----
 
 ## Overview
 
